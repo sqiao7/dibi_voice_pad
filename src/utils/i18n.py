@@ -19,8 +19,8 @@ class I18n:
         self.translations = {
             "zh_CN": {
                 # MainWindow
-                "app_name": "DIBI 进程音频融合",
-                "app_name_mixing": "DIBI 进程音频融合 (混音中)",
+                "app_name": "DIBI Voice Pad",
+                "app_name_mixing": "DIBI Voice Pad (混音中)",
                 "mixer": "混音器",
                 "playlist": "音乐列表",
                 "settings": "设置",
@@ -86,7 +86,7 @@ class I18n:
                 "download_driver": "点击下载 VB-Cable 驱动",
                 "virtual_device_warning_title": "未检测到虚拟音频设备",
                 "about": "关于",
-                "about_desc": "DIBI 进程音频融合工具，旨在帮助主播和内容创作者轻松管理多路音频源。",
+                "about_desc": "DIBI Voice Pad工具，旨在帮助主播和内容创作者轻松管理多路音频源。",
                 "visit_website": "访问官网",
                 "visit_github": "GitHub",
             },
